@@ -46,9 +46,8 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
   </a>
   <br />
   -->
-  [//]: <> (This is also a comment.)
   <a href="https://github.com/ryancheng98153/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryancheng98153&theme=github-compact&days=45" width="600"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryancheng98153&theme=github-compact&days=45&bg_color=21262d" width="600"/>
   </a>
 </p>
 
