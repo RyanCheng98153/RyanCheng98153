@@ -40,10 +40,12 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancheng98153&show_icons=true&theme=github_dark_dimmed" alt="RyanCheng's GitHub Stats" />
   </a>
   <br />
+  <!-- 
   <a href="https://github.com/ryancheng98153/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153&theme=github_dark_dimmed" alt="RyanCheng's streak" />
   </a>
   <br />
+  -->
   <a href="https://github.com/ryancheng98153/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryancheng98153&theme=github"/>
   </a>
