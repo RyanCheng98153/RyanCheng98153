@@ -42,12 +42,12 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
   <br />
   <!-- 
   <a href="https://github.com/ryancheng98153/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153&theme=github_dark_dimmed" alt="RyanCheng's streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153&theme=material_palenight" alt="RyanCheng's streak" />
   </a>
   <br />
   -->
   <a href="https://github.com/ryancheng98153/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryancheng98153&theme=github-compact&days=30&bg_color=21262d" width="650"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153"/>
   </a>
 </p>
 
