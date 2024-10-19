@@ -22,7 +22,7 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
 - **Language:** C/C++, JS/TS, Python, Golang
 - **Frameworks/Libraries:**
   - **Web Development:** React, NextJs, Node.js, ExpressJs, React Native
-  - **Machine Learning:** Pytorck, Pandas, sklearn
+  - **Machine Learning:** Pytorch, Pandas, sklearn
   - **API Design & Development:** gRPC, RESTful APIs
 - **Tools:** Git
 - **Database:** MySQL, PostgreSQL, MongoDB, SQLite
