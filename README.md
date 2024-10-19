@@ -15,7 +15,7 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
 - 📫 How to reach me
   - Email: [ryan98153@gmail.com](mailto:ryan98153@gmail.com)
   - Portfolio: [https://ryancheng98153.github.io](https://ryancheng98153.github.io/)
-  - LinkedIn: [ryan-cheng](www.linkedin.com/in/ryancheng98153)
+  - LinkedIn: [ryan-cheng](https://www.linkedin.com/in/ryancheng98153/)
 
 #### 🔧 Technologies & Tools
 
