@@ -40,6 +40,10 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancheng98153&show_icons=true&theme=material-palenight" alt="RyanCheng's GitHub Stats" />
   </a>
   <br />
+  <a href="https://github.com/ryancheng98153/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCheng98153&layout=compact&langs_count=8&theme=material-palenight&hide=jupyter%20notebook,shaderlab,html,hlsl,mathematica"/>
+  </a>
+  <br />
   <!-- 
   <a href="https://github.com/ryancheng98153/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153&theme=material_palenight" alt="RyanCheng's streak" />
@@ -49,9 +53,7 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
   <a href="https://github.com/ryancheng98153/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153&theme=material-palenight"/>
   </a>
-  <a href="https://github.com/ryancheng98153/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCheng98153&layout=compact&langs_count=8&theme=material-palenight&hide=jupyter%20notebook,shaderlab,html,hlsl,mathematica"/>
-  </a>
+  <br />
 </p>
 
 ---
