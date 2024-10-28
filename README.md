@@ -35,8 +35,8 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
  
 #### 📚 I'm currently reading
 
+- "The art of clean code - Best Practices to Eliminate Complexity and Simplicity Your Life" by Christian Mayer
 - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-- 
 #### 📊 GitHub Analytics
 
 <p align="center">
