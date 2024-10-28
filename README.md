@@ -28,11 +28,7 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
 - **Database:** MySQL, PostgreSQL, MongoDB, SQLite
 
 #### 🌟 Projects
-  <a href="https://github.com/ryancheng98153/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCheng98153&layout=compact&langs_count=8&theme=material-palenight&hide=jupyter%20notebook,shaderlab,html,hlsl,mathematica"/>
-  </a>
-  <br />
- 
+
 #### 📚 I'm currently reading
 
 - "The art of clean code - Best Practices to Eliminate Complexity and Simplicity Your Life" by Christian Mayer
@@ -54,8 +50,14 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryancheng98153&theme=material-palenight"/>
   </a>
   <br />
+  <!--
+  <a href="https://github.com/ryancheng98153/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCheng98153&layout=compact&langs_count=8&theme=material-palenight&hide=jupyter%20notebook,shaderlab,html,hlsl,mathematica"/>
+  </a>
+  <br />
+  -->
 </p>
-
+ 
 ---
 
 Last updated on October 18, 2024.
