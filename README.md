@@ -61,5 +61,3 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
 ---
 
 Last updated on October 18, 2024.
-https://hackmd.io/@ryan98153/rJNDGSz_gg
-https://hackmd.io/@ryan98153/S1ZL1aMdel
