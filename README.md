@@ -16,6 +16,13 @@ I'm a 21-year-old computer science studentwith a passion for technology, program
   - Email: [ryan98153@gmail.com](mailto:ryan98153@gmail.com)
   - Portfolio: [https://ryancheng98153.github.io](https://ryancheng98153.github.io/)
   - LinkedIn: [ryan-cheng](https://www.linkedin.com/in/ryancheng98153/)
+ 
+#### 🎓 Publications
+Check Publication on [Google Scholar](https://scholar.google.com/citations?user=gH75fz8AAAAJ)
+- Don't do rag: When cache-augmented generation is all you need for knowledge tasks
+  - The Web conference 2025 (first author)
+- Efficient beam search for large language models using Trie-based decoding
+  - EMNLP 2025 (third author)
 
 #### 🔧 Technologies & Tools
 
